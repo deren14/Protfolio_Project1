@@ -26,7 +26,7 @@ IMPORTING PROCESS:
 Incorrect Integer Value Error: Encounter an error while importing the dataset to MySQL via the import wizard due to incorrect integer values.
 Solution: Utilized the command-line and local infile method, successfully importing the dataset into MySQL.
 
-Reason for Error: Dataset required adjustments, which were made using Excel. Later on I tried Saving the file with the "csv utf8" option instead of "csv" resolved the import issue.
+Reason for Error: Dataset required adjustments, which were made using Excel. Later on I tried Saving the file with the "csv utf8" option instead of "csv" and that resolved the importing via mysql import wizard issue.
 
 CALCULATION ERROR:
 Mis-Calculation Error: Empty rows in the dataset were not automatically filled with null values by MySQL, causing incorrect calculations.

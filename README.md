@@ -19,7 +19,7 @@ Some of the key queries include:
 - Identifying countries with the highest infection rates and death counts per population
 - Analyzing vaccination trends and their impact on population immunity
 
-- REPORT OF PORTFOLIO_PROJECT1 - 
+ -- REPORT OF PORTFOLIO_PROJECT1 -- 
 This concise report outlines the challenges I encountered during the project and the solutions I implemented to address them.
 
 IMPORTING PROCESS:
